@@ -46,7 +46,7 @@ Anche: SystemVerilog, Assembly, SQL.
 | Tool | Descrizione |
 | --- | --- |
 | [CΞNTURIΩN – Subdomain Enum](https://github.com/LegionShield/legion-subdomain) | Tool di enumerazione subdomain ultra-veloce by LΞGION (stateless, multi-NIC) |
-
+| CΞNSUS — Advanced SQLi Cheatsheet | Cheatsheet avanzato per SQL Injection di tutti i tipi by LΞGION |
 ---
 
 <p align="center">
