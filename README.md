@@ -44,7 +44,7 @@ Anche: SystemVerilog, Assembly, SQL.
 
 | Tool | Descrizione |
 | --- | --- |
-| [LΞGION – Subdomain Enum](https://github.com/LegionShield/legion-subdomain) | Enumerazione subdomain ultra-veloce (stateless, multi-NIC, wildcard filter) |
+| [CΞNTURIΩN – Subdomain Enum](https://github.com/LegionShield/legion-subdomain) | Tool di enumerazione subdomain ultra-veloce by LΞGION (stateless, multi-NIC) |
 
 ---
 
