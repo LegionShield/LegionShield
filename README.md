@@ -13,6 +13,7 @@
 - 🛡️ Sto lavorando ad **AEGISTRUST**, un progetto software di cybersicurezza
 - 🧠 Progetti personali di intelligenza artificiale e sicurezza informatica
 - ⚛️ Stage universitario su software di sicurezza basato sulla meccanica quantistica
+- ⚔️ San Diego (visto F-1) per i corsi di Cybersecurity: Network Defense e Cloud Security Operations su AWS e Azure
 - 🌍 Voglio proseguire con una magistrale all'estero
 - 🗣️ Italiano madrelingua, inglese C1
 
