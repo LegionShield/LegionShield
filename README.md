@@ -38,8 +38,13 @@ Anche: SystemVerilog, Assembly, SQL.
 | [Elaborato AEGISTRUST – Cybersecurity](https://github.com/LegionShield/Elaborato-AEGISTRUST-Cybersecurity) | Elaborato sul progetto AEGISTRUST |
 | [La Meccanica Quantistica come Fondamento della Nuova Cybersicurezza](https://github.com/LegionShield/La-Meccanica-Quantistica-come-Fondamento-della-Nuova-Cybersicurezza) | Minaccia crittanalitica dell'algoritmo di Shor e sicurezza incondizionata del protocollo BB84 |
 | [Appunti Universitari](https://github.com/LegionShield/Appunti-Universitari) | Appunti ed esercizi di Informatica, per anno e per materia |
-| [Fisica 2 – Definizioni ed Esercizi](https://github.com/LegionShield/Fisica2-Definizioni-Esercizi) | Prontuario LaTeX di Fisica 2 |
 | [Elaborazione di Segnali e Immagini](https://github.com/LegionShield/Elaborazione-Segnale-e-Immagini) | Esercizi e laboratori |
+
+### ⚔️ Tool Hacking
+
+| Tool | Descrizione |
+| --- | --- |
+| [LΞGION – Subdomain Enum](https://github.com/LegionShield/legion-subdomain) | Enumerazione subdomain ultra-veloce (stateless, multi-NIC, wildcard filter) |
 
 ---
 
