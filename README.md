@@ -41,7 +41,7 @@ Anche: SystemVerilog, Assembly, SQL.
 | [Appunti Universitari](https://github.com/LegionShield/Appunti-Universitari) | Appunti ed esercizi di Informatica, per anno e per materia |
 | [Elaborazione di Segnali e Immagini](https://github.com/LegionShield/Elaborazione-Segnale-e-Immagini) | Esercizi e laboratori |
 
-### ⚔️ Tool Hacking
+### ⚔️ Tools
 
 | Tool | Descrizione |
 | --- | --- |
